@@ -1,0 +1,63 @@
+{
+    "GroupName": "lawaias233.ark",
+    "UniqueName": "tongyin_strike",
+    "AbilityName": "锡灼",
+    "AbilityType": 0,
+    "CoolDown": 0,
+    "Target": 12,
+    "TargetNums": 0,
+    "EventActions": [
+        {
+            "Target": 13,
+            "TargetNums": 0,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 0,
+            "CountValue": "",
+            "AbilityEvent": 5,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 1,
+            "MountGameEffects": [
+                {
+                    "GameEffectType": 0,
+                    "PeriodType": 0,
+                    "Period": 1,
+                    "RelativeProperty": 15,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "",
+                    "CountName": "",
+                    "UseConstent": false,
+                    "IntValue": 0,
+                    "FloatValue": 100.0,
+                    "BasePropertyValue": 2,
+                    "CanStack": false
+                },
+                {
+                    "GameEffectType": 0,
+                    "PeriodType": 0,
+                    "Period": 1,
+                    "RelativeProperty": 17,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "",
+                    "CountName": "",
+                    "UseConstent": true,
+                    "IntValue": 0,
+                    "FloatValue": 250.0,
+                    "BasePropertyValue": 2,
+                    "CanStack": false
+                }
+            ],
+            "Condition": 2,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": ""
+        }
+    ],
+    "Description": ""
+}

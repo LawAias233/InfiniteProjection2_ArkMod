@@ -1,0 +1,63 @@
+{
+    "GroupName": "lawaias233.ark",
+    "UniqueName": "gongbiruhua",
+    "AbilityName": "工笔入化",
+    "AbilityType": 3,
+    "CoolDown": 0,
+    "Target": 0,
+    "TargetNums": 0,
+    "EventActions": [
+        {
+            "Target": 6,
+            "TargetNums": 1,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 0,
+            "CountValue": "",
+            "AbilityEvent": 5,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 0,
+            "MountGameEffects": [
+                {
+                    "GameEffectType": 0,
+                    "PeriodType": 0,
+                    "Period": 0,
+                    "RelativeProperty": 15,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "",
+                    "CountName": "",
+                    "UseConstent": false,
+                    "IntValue": 0,
+                    "FloatValue": 100.0,
+                    "BasePropertyValue": 3,
+                    "CanStack": false
+                },
+                {
+                    "GameEffectType": 0,
+                    "PeriodType": 0,
+                    "Period": 0,
+                    "RelativeProperty": 17,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "",
+                    "CountName": "",
+                    "UseConstent": true,
+                    "IntValue": 0,
+                    "FloatValue": 200.0,
+                    "BasePropertyValue": 3,
+                    "CanStack": false
+                }
+            ],
+            "Condition": 0,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": ""
+        }
+    ],
+    "Description": "对前方一名敌人造成200%的法术伤害"
+}

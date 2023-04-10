@@ -1,0 +1,34 @@
+{
+    "GroupName": "lawaias233.ark",
+    "UniqueName": "xieyishengxing",
+    "AbilityName": "写意胜形",
+    "AbilityType": 3,
+    "CoolDown": 99,
+    "Target": 0,
+    "TargetNums": 0,
+    "EventActions": [
+        {
+            "Target": 0,
+            "TargetNums": 0,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 0,
+            "CountValue": "lawaias233.ark_zizai",
+            "AbilityEvent": 11,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 0,
+            "MountGameEffects": [],
+            "Condition": 2,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": ""
+        }
+    ],
+    "Description": "召唤一只【自在】"
+}

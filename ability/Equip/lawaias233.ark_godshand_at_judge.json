@@ -1,0 +1,58 @@
+{
+    "GroupName": "lawaias233.ark",
+    "UniqueName": "godshand_at_judge",
+    "AbilityName": "电能之触发 蓄电检定",
+    "AbilityType": 4,
+    "CoolDown": 0,
+    "Target": 0,
+    "TargetNums": 0,
+    "EventActions": [
+        {
+            "Target": 1,
+            "TargetNums": 0,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 0,
+            "CountValue": "",
+            "AbilityEvent": 9,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 6,
+            "MountGameEffects": [
+                {
+                    "GameEffectType": 3,
+                    "PeriodType": 0,
+                    "Period": 0,
+                    "RelativeProperty": 0,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "lawaias233.ark_godshand_atk",
+                    "CountName": "",
+                    "UseConstent": false,
+                    "IntValue": 0,
+                    "FloatValue": 0.0,
+                    "BasePropertyValue": 0,
+                    "CanStack": false
+                }
+            ],
+            "Condition": 2,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [
+                {
+                    "Condition": 4,
+                    "ConditionRangeType": 0,
+                    "RelativeAttribute": 0,
+                    "CountName": "lawaias233.ark_godshand_atk_count",
+                    "FloatValue": 3.0,
+                    "BoolValue": false
+                }
+            ],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": ""
+        }
+    ],
+    "Description": ""
+}

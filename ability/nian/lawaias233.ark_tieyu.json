@@ -1,0 +1,63 @@
+{
+    "GroupName": "lawaias233.ark",
+    "UniqueName": "tieyu",
+    "AbilityName": "铁御",
+    "AbilityType": 3,
+    "CoolDown": 3,
+    "Target": 5,
+    "TargetNums": 0,
+    "EventActions": [
+        {
+            "Target": 5,
+            "TargetNums": 0,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 0,
+            "CountValue": "",
+            "AbilityEvent": 3,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 0,
+            "MountGameEffects": [
+                {
+                    "GameEffectType": 0,
+                    "PeriodType": 0,
+                    "Period": 1,
+                    "RelativeProperty": 5,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "",
+                    "CountName": "",
+                    "UseConstent": true,
+                    "IntValue": 0,
+                    "FloatValue": 80.0,
+                    "BasePropertyValue": 0,
+                    "CanStack": false
+                },
+                {
+                    "GameEffectType": 0,
+                    "PeriodType": 0,
+                    "Period": 1,
+                    "RelativeProperty": 19,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "",
+                    "CountName": "",
+                    "UseConstent": true,
+                    "IntValue": 0,
+                    "FloatValue": 80.0,
+                    "BasePropertyValue": 0,
+                    "CanStack": false
+                }
+            ],
+            "Condition": 2,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": ""
+        }
+    ],
+    "Description": "赋予队友全体80%物抗魔抗提升，持续一回合"
+}

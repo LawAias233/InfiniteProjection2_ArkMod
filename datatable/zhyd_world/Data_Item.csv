@@ -1,0 +1,6 @@
+﻿道具GroupName,道具Unique,道具名称,道具图标路径,可堆叠,道具等级,ItemType,道具描述
+lawaias233.ark,Ark_Fate_Chip,突破芯片组,ark_break_chipgroup_512x512_enge,1,0,Flower,通过记录特殊训练获得的存储芯片组，有助于满足干员在晋升时的强化需要
+lawaias233.ark,Ark_Break_1,基础作战记录,ark_first_record_512x512_enge,1,0,Book,记录了作战录像的存储装置，可以些微增加干员的经验值
+lawaias233.ark,Ark_Break_2,初级作战记录,ark_second_record_512x512_enge,1,1,Book,记录了作战录像的存储装置，可以少许增加干员的经验值
+lawaias233.ark,Ark_Break_3,中级作战记录,ark_third_record_512x512_enge,1,2,Book,记录了作战录像的存储装置，可以大幅增加干员的经验值
+lawaias233.ark,Ark_Break_4,高级作战记录,ark_fouth_record_512x512_enge,1,3,Book,记录了作战录像的存储装置，可以极大增加干员的经验值

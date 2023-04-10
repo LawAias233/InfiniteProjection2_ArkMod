@@ -1,0 +1,13 @@
+﻿给程序读的名称,给人看的名称,位置1,,,位置2,,,位置3,,,位置4,,,位置5,,,Boss位置
+PatternID,名称（备注）,名称,武器,装备,名称,武器,装备,名称,武器,装备,名称,武器,装备,名称,武器,装备,0没boss，1-5有
+lawaias233.ark_zhyd_2_1,方舟整合二人,lawaias233.ark_ZhydDunBing,_TieJian,,,,,,,,lawaias233.ark_ZhydYu,_MuJian,,,,,0
+lawaias233.ark_zhyd_3_1,方舟整合三人A,lawaias233.ark_ZhydDunBing,_TieJian,,,,,lawaias233.ark_ZhydBaoTu,_TieJian,,lawaias233.ark_ZhydYu,_MuJian,,,,,0
+lawaias233.ark_zhyd_3_2,方舟整合三日B,lawaias233.ark_ZhydDunBing,_TieJian,,,,,lawaias233.ark_ZhydBaoTu,_TieJian,,lawaias233.ark_ZhydShuShi,_MuJian,,,,,0
+lawaias233.ark_zhyd_5_1,方舟整合五人,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydBaoTu,_TieJian,,lawaias233.ark_ZhydYu,_MuJian,,lawaias233.ark_ZhydShuShi,_MuJian,,0
+lawaias233.ark_zhyd_5_2,方舟整合五人,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydBaoTu,_TieJian,,lawaias233.ark_ZhydShuShi,_MuJian,,lawaias233.ark_ZhydBaoTu,_TieJian,,0
+lawaias233.ark_zhyd_5_3,方舟整合五人,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydShuShi,_MuJian,,lawaias233.ark_ZhydBaoTu,_TieJian,,lawaias233.ark_ZhydShuShi,_MuJian,,0
+lawaias233.ark_zhyd_5x_1,方舟整合五人精英,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_lawaias233.ark_ZhydBaoTuPlus,_TieJian,,lawaias233.ark_ZhydYu,_MuJian,,lawaias233.ark_ZhydShuShiPlus,_TieJian,,lawaias233.ark_ZhydShuShi,_MuJian,,0
+lawaias233.ark_zhyd_5x_2,方舟整合五人精英,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydShuShi,_MuJian,,lawaias233.ark_lawaias233.ark_ZhydBaoTuPlus,_TieJian,,lawaias233.ark_ZhydShuShiPlus,_TieJian,,0
+lawaias233.ark_zhyd_equip_1,方舟装备关五人A,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydBaoTu,_yitianjian_2,,lawaias233.ark_ZhydYu,_MuJian,_yudi_2,lawaias233.ark_ZhydShuShi,_MuJian,_yudi_2,0
+lawaias233.ark_zhyd_equip_2,方舟装备关五人B,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydDunBing,_TieJian,,lawaias233.ark_ZhydBaoTu,_dagouban_2,,lawaias233.ark_ZhydYu,_MuJian,_tianshanbincan_2,lawaias233.ark_ZhydShuShi,_MuJian,_tianshanbincan_2,0
+lawaias233.ark_zhyd_equip_3,方舟装备关五人C,lawaias233.ark_ZhydDunBing,_TieJian,_HeiYuDuanXuGao_3,lawaias233.ark_ZhydDunBing,_xuantiezhongjian_2,,lawaias233.ark_ZhydBaoTu,_xuantiezhongjian_2,,lawaias233.ark_ZhydYu,_MuJian,,lawaias233.ark_ZhydShuShi,_MuJian,,0

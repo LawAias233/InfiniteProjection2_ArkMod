@@ -1,0 +1,49 @@
+{
+    "GroupName": "lawaias233.ark",
+    "UniqueName": "godshand",
+    "AbilityName": "神已取回了他的力量",
+    "AbilityType": 1,
+    "CoolDown": 0,
+    "Target": 0,
+    "TargetNums": 0,
+    "EventActions": [
+        {
+            "Target": 1,
+            "TargetNums": 0,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 0,
+            "CountValue": "",
+            "AbilityEvent": 3,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 0,
+            "MountGameEffects": [
+                {
+                    "GameEffectType": 1,
+                    "PeriodType": 1,
+                    "Period": 0,
+                    "RelativeProperty": 0,
+                    "RelativeListenEvent": 5,
+                    "RelativeListenAbilityName": "lawaias233.ark_godshand_atk",
+                    "CountName": "lawaias233.ark_godshand",
+                    "UseConstent": false,
+                    "IntValue": 0,
+                    "FloatValue": 0.0,
+                    "BasePropertyValue": 0,
+                    "CanStack": false
+                }
+            ],
+            "Condition": 4,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": ""
+        }
+    ],
+    "Description": "当自身触发暴击时，会对随机敌人造成一次150%倍率的【电能之触】，此次伤害亦可暴击，同一回合最多连锁触发三次"
+}

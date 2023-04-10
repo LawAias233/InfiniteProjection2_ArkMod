@@ -1,0 +1,49 @@
+{
+    "GroupName": "lawaias233.ark",
+    "UniqueName": "queenswish",
+    "AbilityName": "晨昏相通",
+    "AbilityType": 1,
+    "CoolDown": 0,
+    "Target": 0,
+    "TargetNums": 0,
+    "EventActions": [
+        {
+            "Target": 1,
+            "TargetNums": 0,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 0,
+            "CountValue": "",
+            "AbilityEvent": 3,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 0,
+            "MountGameEffects": [
+                {
+                    "GameEffectType": 0,
+                    "PeriodType": 1,
+                    "Period": 0,
+                    "RelativeProperty": 22,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "",
+                    "CountName": "",
+                    "UseConstent": true,
+                    "IntValue": 0,
+                    "FloatValue": 15.0,
+                    "BasePropertyValue": 0,
+                    "CanStack": false
+                }
+            ],
+            "Condition": 4,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": ""
+        }
+    ],
+    "Description": "开场生效，赋予自身15%的闪避"
+}

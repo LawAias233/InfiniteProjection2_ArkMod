@@ -1,0 +1,34 @@
+{
+    "GroupName": "lawaias233.ark",
+    "UniqueName": "ningzuowu",
+    "AbilityName": "宁作吾",
+    "AbilityType": 3,
+    "CoolDown": 99,
+    "Target": 1,
+    "TargetNums": 0,
+    "EventActions": [
+        {
+            "Target": 16,
+            "TargetNums": 0,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 1,
+            "CountValue": "lawaias233.ark_xianjing",
+            "AbilityEvent": 11,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 0,
+            "MountGameEffects": [],
+            "Condition": 2,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": ""
+        }
+    ],
+    "Description": "召唤一只【惊鸿-大】"
+}

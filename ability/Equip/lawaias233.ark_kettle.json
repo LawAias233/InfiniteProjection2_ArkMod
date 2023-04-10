@@ -1,0 +1,49 @@
+{
+    "GroupName": "lawaias233.ark",
+    "UniqueName": "kettle",
+    "AbilityName": "随便抓点什么",
+    "AbilityType": 1,
+    "CoolDown": 0,
+    "Target": 0,
+    "TargetNums": 0,
+    "EventActions": [
+        {
+            "Target": 1,
+            "TargetNums": 0,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 0,
+            "CountValue": "",
+            "AbilityEvent": 13,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 0,
+            "MountGameEffects": [
+                {
+                    "GameEffectType": 0,
+                    "PeriodType": 0,
+                    "Period": 0,
+                    "RelativeProperty": 1,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "",
+                    "CountName": "",
+                    "UseConstent": true,
+                    "IntValue": 0,
+                    "FloatValue": 10.0,
+                    "BasePropertyValue": 0,
+                    "CanStack": false
+                }
+            ],
+            "Condition": 1,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": "回复10%最大生命值"
+        }
+    ],
+    "Description": "每回合回复自身10%最大生命值"
+}

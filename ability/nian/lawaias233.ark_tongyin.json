@@ -1,0 +1,100 @@
+{
+    "GroupName": "lawaias233.ark",
+    "UniqueName": "tongyin",
+    "AbilityName": "铜印",
+    "AbilityType": 3,
+    "CoolDown": 2,
+    "Target": 13,
+    "TargetNums": 0,
+    "EventActions": [
+        {
+            "Target": 1,
+            "TargetNums": 0,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 0,
+            "CountValue": "铜印",
+            "AbilityEvent": 3,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 0,
+            "MountGameEffects": [
+                {
+                    "GameEffectType": 0,
+                    "PeriodType": 0,
+                    "Period": 2,
+                    "RelativeProperty": 5,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "",
+                    "CountName": "",
+                    "UseConstent": true,
+                    "IntValue": 0,
+                    "FloatValue": 50.0,
+                    "BasePropertyValue": 0,
+                    "CanStack": false
+                },
+                {
+                    "GameEffectType": 0,
+                    "PeriodType": 0,
+                    "Period": 2,
+                    "RelativeProperty": 19,
+                    "RelativeListenEvent": 0,
+                    "RelativeListenAbilityName": "",
+                    "CountName": "",
+                    "UseConstent": true,
+                    "IntValue": 0,
+                    "FloatValue": 50.0,
+                    "BasePropertyValue": 0,
+                    "CanStack": false
+                }
+            ],
+            "Condition": 2,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": "提升自身50%物理防御和魔法防御"
+        },
+        {
+            "Target": 1,
+            "TargetNums": 0,
+            "listenEventExecuteType": 0,
+            "ConsumeType": 0,
+            "FloatValue": 0.0,
+            "IntValue": 0,
+            "CountValue": "",
+            "AbilityEvent": 3,
+            "ReduceCDGameAbilityType": 0,
+            "SkillTypeToUse": 0,
+            "ToStealType": 0,
+            "FilterType": 1,
+            "MountGameEffects": [
+                {
+                    "GameEffectType": 1,
+                    "PeriodType": 0,
+                    "Period": 2,
+                    "RelativeProperty": 8,
+                    "RelativeListenEvent": 1,
+                    "RelativeListenAbilityName": "lawaias233.ark_tongyin_strike",
+                    "CountName": "",
+                    "UseConstent": true,
+                    "IntValue": 0,
+                    "FloatValue": 50.0,
+                    "BasePropertyValue": 0,
+                    "CanStack": false
+                }
+            ],
+            "Condition": 2,
+            "DelayRoundNums": 0,
+            "TakeAffectConditions": [],
+            "CheckAllTakeCondition": false,
+            "BlockAffectConditions": [],
+            "CheckAllBlockCondition": false,
+            "Notebook": "赋予自身锡灼效果，受到攻击时对敌人造成法术伤害"
+        }
+    ],
+    "Description": "赋予自身锡灼效果，受到攻击时对敌人造成法术伤害"
+}

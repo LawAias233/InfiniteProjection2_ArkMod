@@ -1,0 +1,8 @@
+﻿Group,UniqueName,DisplayName,Title,PortraitArt,HeadIconArt,CombatArt,HealthGrow,AttackGrow,DefentGrow,MagicGrow,MagicDefendGrow,BaseHealth,BaseAttack,BaseDefend,BaseMagic,BaseMagicDefend,BaseCrit,BaseCritMulti,BaseSpeed,BaseDodge,AbilityOne,AbilityTwo,AbilityThree,Material1,Material2,Material3,Material4,Tag
+lawaias233.ark,ZhydDunBing,机动盾兵,坦,,HeadShot_zhyd_dunbing_enge,ApostleTexture_zhyd_dunbing_enge,300,50,24,50,24,500,50,50,50,50,5,150,85,0,lawaias233.ark_Ark_Tank_DunBing,,,,,,,
+lawaias233.ark,ZhydBaoTu,暴徒,攻,,HeadShot_zhyd_baotu_enge,ApostleTexture_zhyd_baotu_enge,200,75,12,75,12,300,50,50,50,50,5,150,105,0,lawaias233.ark_Ark_Atk_Baotu,,,,,,,
+lawaias233.ark,ZhydYu,无人机-御,奶,,HeadShot_wrz_yu_enge,ApostleTexture_wrz_yu_enge,150,50,8,50,8,150,50,50,50,50,5,150,95,0,lawaias233.ark_Ark_Heal_Yu,,,,,,,
+lawaias233.ark,ZhydShuShi,术士,术,,HeadShot_zhyd_shushi_enge,ApostleTexture_zhyd_shushi_enge,150,50,8,50,8,150,50,50,50,50,5,150,105,0,lawaias233.ark_Ark_Atk_Shushi,,,,,,,
+lawaias233.ark,ZhydDunBingPlus,机动盾兵组长,坦,,HeadShot_zhyd_dunbingplus_enge,ApostleTexture_zhyd_dunbingplus_enge,600,50,24,50,24,1000,50,50,50,50,5,150,85,0,,,,,,,,
+lawaias233.ark,ZhydBaoTuPlus,暴徒组长,攻,,HeadShot_zhyd_baotuplus_enge,ApostleTexture_zhyd_baotuplus_enge,400,75,12,75,12,400,50,50,50,50,5,150,105,0,,,,,,,,
+lawaias233.ark,ZhydShuShiPlus,术士组长,术,,HeadShot_zhyd_shushiplus_enge,ApostleTexture_zhyd_shushiplus_enge,300,50,8,50,8,300,50,50,50,50,5,150,105,0,,,,,,,,
