@@ -1,4 +1,5 @@
-﻿GroupName,UniqueName,Fate1,Fate2,Fate3,Fate4,Fate5,Fate6,DefaultWeapon,DefaultItem
-lawaias233.ark,xi,lawaias233.ark_xi,lawaias233.ark_xi,lawaias233.ark_xi,lawaias233.ark_xi,lawaias233.ark_xi,lawaias233.ark_xi,_TieJian,_BuYi
-lawaias233.ark,nian,lawaias233.ark_nian,lawaias233.ark_nian,lawaias233.ark_nian,lawaias233.ark_nian,lawaias233.ark_nian,lawaias233.ark_nian,_TieJian,_BuYi
-lawaias233.ark,ling,lawaias233.ark_ling,lawaias233.ark_ling,lawaias233.ark_ling,lawaias233.ark_ling,lawaias233.ark_ling,lawaias233.ark_ling,_TieJian,_BuYi
+﻿GroupName,UniqueName,Fate0,,,Fate1,,,Fate2,,,Fate3,,,Fate4,,,Fate5,,,Fate6,,,DefaultWeapon,DefaultEquipment,FateMaterial1,FateMaterial2,FateMaterial3,FateMaterial4
+,,角色,名称,描述,角色,名称,描述,角色,名称,描述,角色,名称,描述,角色,名称,描述,角色,名称,描述,角色,名称,描述,,,,,,
+lawaias233.ark,xi,lawaias233.ark_xi,-,,lawaias233.ark_xi,命座1,,lawaias233.ark_xi,命座2,,lawaias233.ark_xi,命座3,,lawaias233.ark_xi,命座4,,lawaias233.ark_xi,命座5,,lawaias233.ark_xi,命座6,,_TieJian,_BuYi,,,,
+lawaias233.ark,nian,lawaias233.ark_nian,-,,lawaias233.ark_nian,命座1,,lawaias233.ark_nian,命座2,,lawaias233.ark_nian,命座3,,lawaias233.ark_nian,命座4,,lawaias233.ark_nian,命座5,,lawaias233.ark_nian,命座6,,_TieJian,_BuYi,,,,
+lawaias233.ark,ling,lawaias233.ark_ling,-,,lawaias233.ark_ling,命座1,,lawaias233.ark_ling,命座2,,lawaias233.ark_ling,命座3,,lawaias233.ark_ling,命座4,,lawaias233.ark_ling,命座5,,lawaias233.ark_ling,命座6,,_TieJian,_BuYi,,,,
